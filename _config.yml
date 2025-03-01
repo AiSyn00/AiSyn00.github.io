@@ -1,3 +1,14 @@
 remote_theme: mmistakes/minimal-mistakes
 title: AiSyn00's Blog
-description: Welcome to my blog!
+description: Welcome to my blog where I share my thoughts, projects, and experiences!
+author:
+  name: AiSyn00's Blog
+  bio: A passionate learner and writer sharing insights on tech, life, and more.
+locale: en-US  # 设置语言为美国英语
+search: true  # 启用搜索功能
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/你的用户名"
+minimal_mistakes_skin: default  # 可以选择其他皮肤，如 "dark"
