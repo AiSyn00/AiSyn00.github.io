@@ -1,0 +1,25 @@
+remote_theme: AiSyn00/minimal-mistakes
+title: "AiSyn00's Blog"
+description: Welcome to my blog where I share my thoughts, projects,and experiences!
+author:
+  name: "AiSyn00"
+  bio: A pationate learner and writer sharing insights on tech, life, and more.
+local: en-US
+search: true
+footer:
+  links:
+    -label: "GitHub"
+     icon: "fab fa-fw fa-github"
+     url: "https://github.com/AiSyn00"
+header:
+  pages:
+    -title: About
+     url: /about/
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue-term: "pathname"
+seo:
+  date_modified: true
+  author: "AiSyn00"
