@@ -19,7 +19,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light"
-    issue_term: "pathname"
+    issue-term: "pathname"
 seo:
   date_modified: true
   author: "AISYN0O"
