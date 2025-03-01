@@ -12,3 +12,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/你的用户名"
 minimal_mistakes_skin: default  # 可以选择其他皮肤，如 "dark"
+header:
+  pages:
+    - title: About
+      url: /about/
