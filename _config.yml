@@ -1,11 +1,11 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: AiSyn00/minimal-mistakes
 title: AiSyn00's Blog
 description: Welcome to my blog where I share my thoughts, projects, and experiences!
 author:
   name: AiSyn00's Blog
   bio: A passionate learner and writer sharing insights on tech, life, and more.
-locale: en-US  # 设置语言为美国英语
-search: true  # 启用搜索功能
+locale: en-US  
+search: true  
 footer:
   links:
     - label: "GitHub"
