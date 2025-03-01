@@ -10,9 +10,17 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/你的用户名"
+      url: "https://github.com/AiSyn00"
 minimal_mistakes_skin: default  # 可以选择其他皮肤，如 "dark"
 header:
   pages:
     - title: About
       url: /about/
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+seo:
+  date_modified: true
+  author: "AiSyn00"  
