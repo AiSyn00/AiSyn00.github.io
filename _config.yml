@@ -13,8 +13,8 @@ footer:
       url: "https://github.com/AiSyn00"
 header:
   pages:
-    -title: About
-     url: /about/
+    - title: About
+      url: /about/
 comments:
   provider: "utterances"
   utterances:
