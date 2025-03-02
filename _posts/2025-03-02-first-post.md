@@ -1,6 +1,6 @@
 ---
 layout: post
-title:My First Post 
+title: My First Post 
 date: 2025-03-02
 categories: blog 
 ---
