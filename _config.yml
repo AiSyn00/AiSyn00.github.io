@@ -6,6 +6,7 @@ author:
   bio: A pationate learner and writer sharing insights on tech, life, and more.
 local: en-US
 search: true
+future: true
 footer:
   links:
     - label: "GitHub"
